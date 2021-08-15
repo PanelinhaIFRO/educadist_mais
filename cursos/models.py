@@ -84,3 +84,7 @@ class Video(ItemConteudoBase):
 
 class teste:
     pass 
+
+    
+class teste2:
+    pass 
