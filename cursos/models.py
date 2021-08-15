@@ -79,3 +79,8 @@ class Imagem(ItemConteudoBase):
 class Video(ItemConteudoBase):
     caminho = models.URLField()
 
+
+
+
+class teste:
+    pass 
